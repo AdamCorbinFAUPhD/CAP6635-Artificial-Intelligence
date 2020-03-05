@@ -53,5 +53,16 @@
     - Andrew says that we dont really need huge dataset to use AI for good. Its possible to try to leverage small data sets to prove out ideas
     - Two aspects to think about before kicking off an AI project. One that the project is feisable to undersand that tecnically it can be done. Second that the project is valueable to the business
     - Buid vs buy condrum - Machine learning ususally buy could be faster up front but maybe not as flexible. Data Science usually all done inhouse
+  - How to work with an AI team
+    - Specify the acceptance criteria
+    - Splitting the data between the training set and the test set. The training set will take all the inputs to build a model and then will be tested on the test set. Sometimes an AI team will want to use 2 different test sets.
+    - Some pitfals would be miss classification of data sets, not enough data to analize, or missing classification. 
+  - Tools
+    - ML Frameworks - TensorFlow, PyTorch, Keras, Scikit-learn
+    - research - Arxiv
+    - Open Source software - GitHub
+    - CPU vs GPU. GPU has been found to be useful for nurel networks. 
+    - Cloud vs on-prem(ises)
+      - Edge deployment. Example would be a car that doesnt have enough time to upload to cloud to crunch numbers so some computations happen right on site. Putting a processor right next to where the data is collected.
 # Notes on week 3 - AI in your company
 # Notes on Week 4 - AI Biases 
