@@ -45,6 +45,13 @@
   - Recruting
     - Data science can be used to analzie the recruting funnel to view each step. Based on that analysis you can make recmendations to how to improve the recruting funnel. Over time that data can help make educated decisiosne
     - For Machine Leanring there could be a model build where you feed in resumes and it will classify if the person should be a canidate to be interviewed. This can be challenging in the case that the model potenticall could be biased depending on the model development.
-    
+ - How to pick an AI project
+    - Consider having an AI expert and a Domain expert to be apart of the project
+    - Intersting point discussion AI replacing jobs, Andrew discusses that we should consider breaking down a job into many tasks. These tasks could be more efficent for an AI to to but posssibly an AI to do all of the tasks might not make sense.
+    - Another key aspect is to thinkg about what business value is this project going provide
+    - Last point would be look for pain points in the current system and see if AI can help solve those problems
+    - Andrew says that we dont really need huge dataset to use AI for good. Its possible to try to leverage small data sets to prove out ideas
+    - Two aspects to think about before kicking off an AI project. One that the project is feisable to undersand that tecnically it can be done. Second that the project is valueable to the business
+    - Buid vs buy condrum - Machine learning ususally buy could be faster up front but maybe not as flexible. Data Science usually all done inhouse
 # Notes on week 3 - AI in your company
 # Notes on Week 4 - AI Biases 
