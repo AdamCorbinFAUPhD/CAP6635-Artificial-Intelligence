@@ -65,4 +65,25 @@
     - Cloud vs on-prem(ises)
       - Edge deployment. Example would be a car that doesnt have enough time to upload to cloud to crunch numbers so some computations happen right on site. Putting a processor right next to where the data is collected.
 # Notes on week 3 - AI in your company
+- Dive deep on a smart speaker
+  - create a wakeword
+  - speach recoginition to listen. converts audo to text and if that wakeword is found then it will activate
+  - Intent recognition - spcicify commands when talking to the smart spearker. Such as whats the time, whats the weather. There can be many different kind of combinations of words that link of to the same Intent. For example: "whats the weather", " can you tell me the weather", "whats the forcast today"
+  - Back end running of a program. This is predefined code that build to handled the intents
+- note: in general these steps comprise of an AI Pipeline. No all AI Pipelines have the same steps but that what we call an AI Pipeline.
+- There is a video on self driving cars. Consider diving deeper but its simular to the Smart speaker.
+- Roles in AI
+  - Software enigneer, responsible to creating that back end of executing a job
+  - Machine learning engineer - Someone who takes pre existing ideas of ML and applying them to current problems
+  - Machine Learning Resaecher - Mainly looking for new ways to apply ML
+  - Applied ML Scientist - mixtur of the 2
+  - Data Scientist - Looking at data, developing ideas or insights to present to decision makers.
+  - Data Engineer - someone who orgnaizese the data.
+  - AI Product Manager - someone to help come up with ideas to apply AI to problems
+- AI Playbook
+  - Pilot projects. Consider trying to make simple projects that would be succcessful. Trying to gain momentum. 
+  - AI team - Using an AI team and matrix them into different organizations. This will alow the AI members to work with the domain experts. Consider the compaty to provide funding first vs having the business units to providie funding. Add screenshot time 6:40 @ AI Transformation palyboo(part1)
+  - Training - Execs need to training so they are aware of some of hte terms and usages. Leaders of divisions - how to manage a prodct and give direction to where the project should go. AI devs - using online reseouces, other team members in house that might know the information
+  - Strategy
+  - communication between AI and all parities
 # Notes on Week 4 - AI Biases 
