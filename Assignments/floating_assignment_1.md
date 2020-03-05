@@ -18,7 +18,33 @@
     - Data Science - coming up with hypothisis , run test to support the hypotisis or dispove. Usually lots of documents to support the algorithm in a way to drive information or ideas like business insights
     - Deep learning - Artifical neual network. Takes many inputs to come up with an output. Add screenshot of neural network. Neral netowek is not like the human brain in nerons
   - whats an ai company
+    - Talking about how internet companys can piviot fast unlike traditional companieis such as a shopping mall. That means they can tests lots of things quickly to undersand consumer behavior.
+    - They are good figure out which data to collect, possible providing free services which they could then leverage that data to sell insights to someone else. Also its important to have the data all organized simulary so that it can be processed smoothly
+  - AI Transformation
+    1. Pilot Projects - Investigation about AI with small projects to get a feel for what it should look like and behave like.
+    2. Set up infastruction - Companys can then take the lessessons learned from the pilot projects and set up standaization around data warehousing. This is improtant to streamline and AI projects
+    3. Training - Ensure that the teams are adiquatly training to peform the tasks of these new roles and even managers so they have an awareness to the projects
+    4. Strategy - As many good projects and vetures go, setting up a good strategy to allow the whole team to undersand what the roadmap will look like.
+    5. Communication - Ensure that everyone within the project is on the same page as well as how teams are comuncationg to the outside teams so they dont have any contradictions. 
+   - What AI can & Cannot do
+     - Rule of tumb - If a human can do the task quicky that AI most likely could do the task. For example taking an audio file and converting it to text. A poor example would be take some market research and output a 50 page analysis report 
+     - In general there it can be challenging to say if AI can do a task so it might mean taking some time doing investigation to prove out some theorys 
+    - fiesability basically if the task can be done in a short time frame such as seconds and if that task has the oppertinity for lots of data then it could mean a good canidate for ML
+  - Overview of Nurl network. 
     
 # Notes on week 2 - building projects
+- Steps for Machine learning project
+  - Collect data
+  - Train model
+  - deply model
+- Steps for Data Science project
+  - Collect data
+  - Analyze data
+  - Suggest hypotheses or actions. loop back to the top
+- Usages for Data Science vs Machine learning
+  - Recruting
+    - Data science can be used to analzie the recruting funnel to view each step. Based on that analysis you can make recmendations to how to improve the recruting funnel. Over time that data can help make educated decisiosne
+    - For Machine Leanring there could be a model build where you feed in resumes and it will classify if the person should be a canidate to be interviewed. This can be challenging in the case that the model potenticall could be biased depending on the model development.
+    
 # Notes on week 3 - AI in your company
 # Notes on Week 4 - AI Biases 
