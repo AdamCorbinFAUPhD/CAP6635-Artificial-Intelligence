@@ -114,3 +114,25 @@
 - General Adversarial network(GANs) used to create images from scratch and help improve image qualirt
  
 # Notes on Week 4 - AI Biases 
+## AI and Socciety
+- Goldilocs rule to just set your expecations level. Bing to optimisitc to super AI and that it will take over the world can be considered a waste of energy since there is not a clear path anything like that in the near future. Bing too pessimistic such as AI cant do anything so why bother with it about how another AI winter is coming. At that time in past for AI winter it was hyped up too much and didnt bring much value at the time. Today AI is bring ecnomic value so its not over hyped. 
+- Sometimes AI is look down upon becuase it cant explain it self on how it made its decisions.
+### AI Bias
+- There have been studies that have been found that AIs have parsed some data from online to build some relationships and found that it can be bias. For example if you told AI man to woman as Father it would come up Mother. A bias example was Man to Computer programmer as Woman would come up with homemaker which is not a good representation. Insert picture from video bias ~ 4:10. 
+- Hiring company created an AI tool and found that it was picking a select demographic. This tool was later decommision due to the bias.
+- Solutions would be to use inclusive data or less biased data. Also having some audition processes such as having different types of training sets to ensure that the system is staying unbysaed. 
+### Adversarial attacks
+- Its possible to add some data that doesnt look obvious to a human but it throws off the AI by a lot. Insert picture at 1:31. We have an example here were some pixels were changed and AI is not classifying this as a hammer where it hsould be a humming bird
+- There are some physical attacks such as adding a sticker to make it think that an object or an object has a toaster in the image.
+### Adversaruak defenses
+- Can have some changes to the Neural netowrks but the systems might run a little slower.
+- Some systems wouldnt make sense to do this such as trying to fool a good email into that its a spam email.
+### Adverse use of AI
+- DeepFakes - AI used to make people look like they said something when they really didnt. Buzzfeed posted a video of obama of the first one that became popular but also said he was fake. <insert link>
+- Some goverments can use this to monitor their citicents and evade human privacy
+## AI and Developing economies
+- The concept would be to have AI automate some of the lower end jobs but to use that econmic savings to help leapfrog people upward on the economic ladder. Example would be Mobile payments, in some countries such as indian, they didnt bother building all the landlines, insead they focused on building the wireless infrastructior to support wireless communication. 
+## AI and Jobs
+- McKensey Global Institute did a study that estimated that between 400-800 milion jobs would be displaced but on the flip side they found that AI would generate between 555-890 million jobs 
+- Usually jobs that have routines have high likely that AI could impact 
+- some suggested solustions would be to have lifelong learning socicety or a conditional basic income to help provide a safty net but incentivize learning. 
