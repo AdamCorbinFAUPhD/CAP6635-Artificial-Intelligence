@@ -84,6 +84,16 @@
   - Pilot projects. Consider trying to make simple projects that would be succcessful. Trying to gain momentum. 
   - AI team - Using an AI team and matrix them into different organizations. This will alow the AI members to work with the domain experts. Consider the compaty to provide funding first vs having the business units to providie funding. Add screenshot time 6:40 @ AI Transformation palyboo(part1)
   - Training - Execs need to training so they are aware of some of hte terms and usages. Leaders of divisions - how to manage a prodct and give direction to where the project should go. AI devs - using online reseouces, other team members in house that might know the information
-  - Strategy
+  - Strategy - Andrew talks about how its sometimes important to not come up with a stratefy up front becuase it might be accidemic in nature and might not lean well towards the consumer or project. this is espically good if you or your team is new to this concept.
+    - Virtuous cycle of AI - basically where the product is good, which means it gets more users which then it gets more data to improve. Making it difficult for entry level products to enter the market.
+    - come up with some product that might be free but to collect data. this data collection would be used to improve your product making it more valueable 
   - communication between AI and all parities
+    - Undersanding the external customers like investors or the goverment and effecticly communicate what the prodcut is trying to accomplish
+    - Having a clear vision about your proct that can be communcated well can also help with recurting top talent. 
+    - lastly ensureing that internal stakeholders or customers are undersanding of the product 
+- AI Pitfalls
+ - Not have high expecations that AI is going to solve all of your problems but undersand that AI can be a great leveraging tool if you use it well
+ - Hiring a set of ML Engineers need to be paired up with domain experts 
+ - AI is an itteravie process so make sure you dont set high expecations up front.
+ 
 # Notes on Week 4 - AI Biases 
