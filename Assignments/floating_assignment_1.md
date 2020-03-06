@@ -95,5 +95,22 @@
  - Not have high expecations that AI is going to solve all of your problems but undersand that AI can be a great leveraging tool if you use it well
  - Hiring a set of ML Engineers need to be paired up with domain experts 
  - AI is an itteravie process so make sure you dont set high expecations up front.
+## Tecnical applications
+- Computer vision which can be used to identify objects or classify objects based on shapes and colors. An applcation would be face recgonition. There is also an application called Image segmentation which wil define a clear outline around an object.
+- Natural language processing 
+  - An applciation would be to take emails and clasify them as spam or a good email.
+  - Web search is another applcaiton where a text input gets convert to a relevent website.
+- Speech
+  - Taking an audio file and converting it to text based. 
+  - Speaker ID where an person can be identified by their speach
+- Robotics
+  - Perception to underdand what objects are around its surrounding
+  - Motion planning to try to schedule where the robot plans to move to
+## Unsuperived learning
+- clustering <insert picture> algo can group data into small chunks. Used often for market segmentation problems. The concept here is that the algos try to find meaningful representation without an input guiding it.
+- It can take a lot of data to train something that would be able to identify something with supervised learning. There is nope that Un-supervised learning could be a key contributor to undsersanding how to itendify something with smaller datasets
+- Transfer leanring. An example would be to build a model for detecting cars with 100k images, and take that model and update it to try to identify golf carts with only 100 images
+- Reinforcement learning - Kinda how you would training a dog. Prais it when it did something good, and let them know when they did something bad. Using a "reward signal" to train the system. It takes a lot of data to build these models. 
+- General Adversarial network(GANs) used to create images from scratch and help improve image qualirt
  
 # Notes on Week 4 - AI Biases 
