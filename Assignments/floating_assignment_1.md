@@ -1,3 +1,17 @@
+# What is AI? (and what it isn't)
+For a non technical person AI can be a mysterious thing
+<insert intro>
+
+<insert> that the article will be based on the learnings of https://www.coursera.org/learn/ai-for-everyone Seems to be geared towards Executives
+
+<Create set of topics>
+## General overview
+## What is AI used for
+## How can you use AI
+## AI controversy 
+
+<Conclusion>
+
 # Notes on week 1 - Whats AI
 1. Differences between ANI and AGI
   - Artificial narrow intelligence - smart speakers, self-driving cars
@@ -29,7 +43,7 @@
    - What AI can & Cannot do
      - Rule of thumb - If a human can do the task quickly that AI most likely could do the task. For example taking an audio file and converting it to text. A poor example would be take some market research and output a 50 page analysis report 
      - In general there it can be challenging to say if AI can do a task so it might mean taking some time doing investigation to prove out some theory 
-    - feasibility basically if the task can be done in a short time frame such as seconds and if that task has the opportunity for lots of data then it could mean a good candidate for ML
+        - feasibility basically if the task can be done in a short time frame such as seconds and if that task has the opportunity for lots of data then it could mean a good candidate for ML
   - Overview of Nurl network. 
     
 # Notes on week 2 - building projects
@@ -112,7 +126,7 @@
 - Transfer learning. An example would be to build a model for detecting cars with 100k images, and take that model and update it to try to identify golf carts with only 100 images
 - Reinforcement learning - Kinda how you would training a dog. Prais it when it did something good, and let them know when they did something bad. Using a "reward signal" to train the system. It takes a lot of data to build these models. 
 - General Adversarial network(GANs) used to create images from scratch and help improve image quality
- 
+
 # Notes on Week 4 - AI Biases 
 ## AI and Society
 - Goldilocks rule to just set your expectations level. Bing to optimistic to super AI and that it will take over the world can be considered a waste of energy since there is not a clear path anything like that in the near future. Bing too pessimistic such as AI cant do anything so why bother with it about how another AI winter is coming. At that time in past for AI winter it was hyped up too much and didn't bring much value at the time. Today AI is bring economic value so its not over hyped. 
