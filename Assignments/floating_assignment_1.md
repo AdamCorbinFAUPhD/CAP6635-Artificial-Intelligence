@@ -1,6 +1,9 @@
 # What is AI? (and what it isn't)
-For a non technical person AI can be a mysterious thing
-<insert intro>
+AI can be a mysterious thing for almost anyone. Based on movies it could take over the world
+and control everyone. It can instantly heal people or solve the hardest problems for a human. 
+Some of this could potentially be real but many years to come with research. 
+
+This article will be an overview of the "Ai For Everyone" course at Coursera by Andrew NG. This course a high level overview seemly geared towards executives to companies. He also created the Machine learning MOOC course with Stanford University which has seen 2.8 million sign ups. 
 
 <insert> that the article will be based on the learnings of https://www.coursera.org/learn/ai-for-everyone Seems to be geared towards Executives
 
