@@ -41,7 +41,7 @@ Interesting point discussion about AI replacing jobs, Andrew discusses that we s
 
 
 ## How can you use AI
-Before you get started with an AI team, a  key aspect is to thinking about what business value is this project going provide. A start would be to look for pain points in the current system and see if AI can help solve those problems. Andrew Ng says that we dont really need huge dataset to use AI for good. Its possible to try to leverage small data sets to prove out ideas. Two aspects to think about before kicking off an AI project. One that the project is feasible to understand that technically it can be done. Second that the project is valuable to the business.
+Before you get started with an AI team, a  key aspect is to think about what business value this project will provide. A start would be to look for pain points in the current system and see if AI can help solve those problems. Andrew Ng says that we dont really need huge dataset to use AI as its possible to try to leverage small data sets to prove out ideas. Two aspects to think about before kicking off an AI project. One that the project is feasible to understand that technically it can be done. Second that the project is valuable to the business.
 
 Build vs buy conundrum - Machine learning usually buy could be faster up front but maybe not as flexible. Data Science usually all done in house
 
@@ -75,12 +75,12 @@ Its possible to add some data that doesn't look obvious to a human, but it throw
 DeepFakes - AI used to make people look like they said something when they really didn't. Buzzfeed posted a video of Obama of the first one that became popular but also said he was fake. [Obama - DeepFake](https://www.youtube.com/watch?v=cQ54GDm1eL0)
 
 # AI for the good
- Many people are concerned that AI will take over their jobs. That can be a real thing in some cases but in general its more likely that AI will generate more jobs than it will cut. The concept would be to have AI automate some of the lower end jobs but to use that economic savings to help leapfrog people upward on the economic ladder. Example would be Mobile payments, in some countries such as Indian, they didn't bother building all the landlines, instead they focused on building the wireless infrastructural to support wireless communication. 
+Many people are concerned that AI will take over their jobs. That can be a real thing in some cases but in general its more likely that AI will generate more jobs than it will cut. The concept would be to have AI automate some of the lower end jobs but to use that economic savings to help leapfrog people upward on the economic ladder. Example would be Mobile payments, in some countries such as Indian, they didn't bother building all the landlines, instead they focused on building the wireless infrastructural to support wireless communication. 
 
 McKenney Global Institute did a study that estimated that between 400-800 million jobs would be displaced but on the flip side they found that AI would generate between 555-890 million jobs. Usually jobs that have routines have high likely that AI could impact. Some suggested solutions would be to have lifelong learning society or a conditional basic income to help provide a safety net but incentive learning.
 
 # Conclusion
-Overall AI if leveraged well can be an empowering tool to help drive efficeny and help optmize how we opperate. Its really excited seeing so much development and enthusiasm in the field today. I look forward to seeing how the future goes in the direcitons in ANI, Deep learning, Data Science and so much more.
+Overall AI if leveraged well can be an empowering tool to help drive efficiency and help optimize how we operate. Its really excited seeing so much development and enthusiasm in the field today. I look forward to seeing how the future goes in the directions in ANI, Deep learning, Data Science and so much more.
 
 # Sources
 1.  https://www.coursera.org/learn/ai-for-everyone
