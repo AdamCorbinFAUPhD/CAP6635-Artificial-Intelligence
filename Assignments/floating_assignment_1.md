@@ -72,7 +72,7 @@ An idea to solve this would be to use inclusive data or less biased data. Also h
 Its possible to add some data that doesn't look obvious to a human, but it throws off the AI by a lot. We have an example here were some pixels were changed and AI is not classifying this as a hammer where it should be a hummingbird. An example below how this might work:
 ![](https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,q_80,w_800/xkdou98mhurzyshsgyj0.png)
 
-DeepFakes - AI used to make people look like they said something when they really didn't. Buzzfeed posted a video of Obama of the first one that became popular but also said he was fake. [Obama - DeepFake](https://www.youtube.com/watch?v=cQ54GDm1eL0)
+Deep Fakes - AI used to make people look like they said something when they really didn't. Buzzfeed posted a video of Obama of the first one that became popular but also said he was fake. [Obama - DeepFake](https://www.youtube.com/watch?v=cQ54GDm1eL0)
 
 # AI for the good
 Many people are concerned that AI will take over their jobs. That can be a real thing in some cases but in general its more likely that AI will generate more jobs than it will cut. The concept would be to have AI automate some of the lower end jobs but to use that economic savings to help leapfrog people upward on the economic ladder. Example would be Mobile payments, in some countries such as Indian, they didn't bother building all the landlines, instead they focused on building the wireless infrastructural to support wireless communication. 
