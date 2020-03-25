@@ -29,3 +29,13 @@ This is another way to say how well a model is performing. The ranges are betwee
 # Q9
 
 The equal sampling is a way to ensure that the train data set has equal amount of all classes represented. In real life if we tool a real distribution between the different classes it could be a low amount of data associated to the bad class. Now if we trained the model with this data set we would do really well with the normal class but the bad classes would do poorly in identification. So with equal sampling we make sure that there is around the same number of samples for each class. 
+# Q10
+# Q11
+# Q12
+# Q13
+# Q14
+# Q15
+# Q16
+# Q17
+
+# Summary
