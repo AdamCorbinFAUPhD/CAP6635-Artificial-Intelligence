@@ -1,4 +1,7 @@
+# Adam Corbin - CAP 6635 - AI - Hands on #1 Spring 2020
+
 # Q1 -Trial and error?
+
 True
 # Q2 - Overfitting
 Overfitting is the term used when a model has been trained so much on a specific data set that when you throw something new at this model it can get confused and has a difficult time giving the correct result
